@@ -8,10 +8,11 @@ import java.util.List;
 public class Statistics {
 
     private List<Player> players;
+    private PlayerReader reader;
 
-    public Statistics() {
-        PlayerReader reader = new PlayerReader("https://nhlstatisticsforohtu.herokuapp.com/players.txt");
-        players = reader.getPlayers();       
+    public Statistics(PlayerReader r) {
+        this.reader = r;
+        players = reader.getPlayers();
     }
 
     public Player search(String name) {
