@@ -8,9 +8,9 @@ import java.util.List;
 public class Statistics {
 
     private List<Player> players;
-    private PlayerReader reader;
+    private Reader reader;
 
-    public Statistics(PlayerReader r) {
+    public Statistics(Reader r) {
         this.reader = r;
         players = reader.getPlayers();
     }

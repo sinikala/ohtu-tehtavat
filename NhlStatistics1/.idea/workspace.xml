@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92da2eeb-27fc-4a75-9a08-d5eeb9b3453f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/ohtuesimerkki/StatisticsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/ohtuesimerkki/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/ohtuesimerkki/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/ohtuesimerkki/Reader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/ohtuesimerkki/Reader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/ohtuesimerkki/Statistics.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/ohtuesimerkki/Statistics.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ohtuesimerkki/Reader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ohtuesimerkki/Reader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ohtuesimerkki/Statistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ohtuesimerkki/Statistics.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
@@ -23,49 +30,85 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ohtuesimerkki/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ohtuesimerkki/Player.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ohtuesimerkki/PlayerReader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ohtuesimerkki/Statistics.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="101">
-              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.41115585">
+      <split-first>
+        <leaf>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/ohtuesimerkki/Main.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="68">
+                  <caret line="4" column="116" selection-start-line="4" selection-start-column="116" selection-end-line="4" selection-end-column="116" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/ohtuesimerkki/Player.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="34">
+                  <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/ohtuesimerkki/Reader.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="102">
+                  <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/ohtuesimerkki/PlayerReader.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="272">
+                  <caret line="19" selection-start-line="19" selection-end-line="19" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/ohtuesimerkki/Statistics.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="630">
+                  <caret line="42" column="45" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/test/java/ohtuesimerkki/StatisticsTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="765">
+                  <caret line="45" column="43" selection-start-line="45" selection-start-column="43" selection-end-line="45" selection-end-column="43" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#1123#1124#0" expanded="true" />
+                    <element signature="e#1150#1151#0" expanded="true" />
+                    <element signature="e#1019#1020#0" expanded="true" />
+                    <element signature="e#1049#1050#0" expanded="true" />
+                    <element signature="e#1149#1150#0" expanded="true" />
+                    <element signature="e#1213#1214#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -76,20 +119,14 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/ohtuesimerkki/PlayerReader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ohtuesimerkki/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ohtuesimerkki/Reader.java" />
         <option value="$PROJECT_DIR$/src/main/java/ohtuesimerkki/Statistics.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ohtuesimerkki/StatisticsTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/gradle.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="961" />
     <option name="height" value="1054" />
   </component>
@@ -132,6 +169,27 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="ohtuesimerkki" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="NhlStatistics1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NhlStatistics1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="NhlStatistics1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NhlStatistics1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NhlStatistics1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NhlStatistics1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ohtuesimerkki" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -146,6 +204,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -166,7 +230,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.StatisticsTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ohtuesimerkki.Main" />
       <module name="NhlStatistics1.main" />
@@ -174,8 +238,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StatisticsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NhlStatistics1.test" />
+      <option name="PACKAGE_NAME" value="ohtuesimerkki" />
+      <option name="MAIN_CLASS_NAME" value="ohtuesimerkki.StatisticsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatisticsTest.searchReturnsCorrectPlayer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NhlStatistics1.test" />
+      <option name="PACKAGE_NAME" value="ohtuesimerkki" />
+      <option name="MAIN_CLASS_NAME" value="ohtuesimerkki.StatisticsTest" />
+      <option name="METHOD_NAME" value="searchReturnsCorrectPlayer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatisticsTest.topScorersReturnCorrectNumberOfPlayers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NhlStatistics1.test" />
+      <option name="PACKAGE_NAME" value="ohtuesimerkki" />
+      <option name="MAIN_CLASS_NAME" value="ohtuesimerkki.StatisticsTest" />
+      <option name="METHOD_NAME" value="topScorersReturnCorrectNumberOfPlayers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.StatisticsTest" />
+        <item itemvalue="JUnit.StatisticsTest.searchReturnsCorrectPlayer" />
+        <item itemvalue="JUnit.StatisticsTest.topScorersReturnCorrectNumberOfPlayers" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -187,32 +283,61 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572634511386</updated>
-      <workItem from="1572634515482" duration="773000" />
+      <workItem from="1572634515482" duration="5436000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="StatisticsTest - 2019.11.02 at 11h 20m 23s.xml">
+      <configuration name="StatisticsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StatisticsTest - 2019.11.02 at 11h 23m 02s.xml">
+      <configuration name="StatisticsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StatisticsTest - 2019.11.02 at 11h 25m 00s.xml">
+      <configuration name="StatisticsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StatisticsTest_topScorersReturnCorrectNumberOfPlayers - 2019.11.02 at 11h 29m 43s.xml">
+      <configuration name="StatisticsTest.topScorersReturnCorrectNumberOfPlayers" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StatisticsTest - 2019.11.02 at 11h 31m 00s.xml">
+      <configuration name="StatisticsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StatisticsTest_searchReturnsCorrectPlayer - 2019.11.02 at 11h 37m 05s.xml">
+      <configuration name="StatisticsTest.searchReturnsCorrectPlayer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StatisticsTest_searchReturnsCorrectPlayer - 2019.11.02 at 11h 47m 50s.xml">
+      <configuration name="StatisticsTest.searchReturnsCorrectPlayer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StatisticsTest - 2019.11.02 at 11h 48m 21s.xml">
+      <configuration name="StatisticsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StatisticsTest - 2019.11.02 at 11h 50m 27s.xml">
+      <configuration name="StatisticsTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="773000" />
+    <option name="totallyTimeSpent" value="5436000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="961" height="1054" extended-state="0" />
+    <frame x="-1" y="0" width="1922" height="1054" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Designer" />
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.120746434" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.07104701" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Messages" weight="0.32936078" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.5005342" side_tool="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946582" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946582" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -230,6 +355,27 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ohtuesimerkki/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="116" selection-start-line="4" selection-start-column="116" selection-end-line="4" selection-end-column="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ohtuesimerkki/Reader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ohtuesimerkki/PlayerReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ohtuesimerkki/Player.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -237,24 +383,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ohtuesimerkki/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ohtuesimerkki/PlayerReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ohtuesimerkki/Statistics.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        <state relative-caret-position="630">
+          <caret line="42" column="45" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ohtuesimerkki/StatisticsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="43" selection-start-line="45" selection-start-column="43" selection-end-line="45" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1123#1124#0" expanded="true" />
+            <element signature="e#1150#1151#0" expanded="true" />
+            <element signature="e#1019#1020#0" expanded="true" />
+            <element signature="e#1049#1050#0" expanded="true" />
+            <element signature="e#1149#1150#0" expanded="true" />
+            <element signature="e#1213#1214#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
