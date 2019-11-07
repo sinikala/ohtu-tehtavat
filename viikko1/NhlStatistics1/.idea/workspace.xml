@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92da2eeb-27fc-4a75-9a08-d5eeb9b3453f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/ohtuesimerkki/StatisticsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/ohtuesimerkki/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/ohtuesimerkki/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/ohtuesimerkki/Reader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/ohtuesimerkki/Reader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/ohtuesimerkki/Statistics.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/ohtuesimerkki/Statistics.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ohtuesimerkki/Reader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ohtuesimerkki/Reader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ohtuesimerkki/Statistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ohtuesimerkki/Statistics.java" afterDir="false" />
-    </list>
+    <list default="true" id="92da2eeb-27fc-4a75-9a08-d5eeb9b3453f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -283,7 +274,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572634511386</updated>
-      <workItem from="1572634515482" duration="5436000" />
+      <workItem from="1572634515482" duration="5797000" />
     </task>
     <servers />
   </component>
@@ -315,9 +306,12 @@
     <history-entry file="StatisticsTest - 2019.11.02 at 11h 50m 27s.xml">
       <configuration name="StatisticsTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="StatisticsTest - 2019.11.02 at 11h 56m 31s.xml">
+      <configuration name="StatisticsTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5436000" />
+    <option name="totallyTimeSpent" value="5797000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1922" height="1054" extended-state="6" />
@@ -337,7 +331,7 @@
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946582" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946582" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
