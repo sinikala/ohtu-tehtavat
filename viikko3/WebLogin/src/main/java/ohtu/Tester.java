@@ -36,7 +36,7 @@ public class Tester {
         element = driver.findElement(By.linkText("logout"));
         element.click();
         sleep(1);
-       
+
 
 
 
