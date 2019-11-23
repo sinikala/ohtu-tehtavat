@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ohtuesimerkki.StatisticsTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-11-02T09:56:38" hostname="lx8-fuxi147" time="0.006">
+<testsuite name="ohtuesimerkki.StatisticsTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-11-21T08:07:51" hostname="lx8-fuxi147" time="0.014">
   <properties/>
   <testcase name="teamReturnsEmptyListWithNonExistentTeam" classname="ohtuesimerkki.StatisticsTest" time="0.003"/>
-  <testcase name="searchReturnsNullWithNonExistentName" classname="ohtuesimerkki.StatisticsTest" time="0.001"/>
+  <testcase name="searchReturnsNullWithNonExistentName" classname="ohtuesimerkki.StatisticsTest" time="0.0"/>
   <testcase name="teamReturnsRightAmountOfPlayers" classname="ohtuesimerkki.StatisticsTest" time="0.0"/>
-  <testcase name="topScorersReturnCorrectNumberOfPlayers" classname="ohtuesimerkki.StatisticsTest" time="0.002"/>
+  <testcase name="topScorersReturnCorrectNumberOfPlayers" classname="ohtuesimerkki.StatisticsTest" time="0.009"/>
   <testcase name="searchReturnsCorrectPlayer" classname="ohtuesimerkki.StatisticsTest" time="0.0"/>
   <system-out><![CDATA[[Gretzky              EDM 35 + 89 = 124, Lemieux              PIT 45 + 54 = 99, Yzerman              DET 42 + 56 = 98]
 ]]></system-out>
