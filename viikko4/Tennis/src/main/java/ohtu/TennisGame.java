@@ -11,15 +11,7 @@ public class TennisGame {
     public TennisGame(String player1Name, String player2Name) {
         this.player1 = player1Name;
         this.player2 = player2Name;
-        readyPrintouts();
-    }
-
-    public void readyPrintouts(){
-        this.printouts = new String[4];
-        printouts[0] = "Love";
-        printouts[1] = "Fifteen";
-        printouts[2] = "Thirty";
-        printouts[3] = "Forty";
+        this.printouts = new String[]{"Love", "Fifteen", "Thirty", "Forty"};
     }
 
     public void wonPoint(String playerName) {
